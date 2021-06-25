@@ -16,3 +16,9 @@
     "extends": "propergate"
 },
 ```
+
+# How to deploy new version
+
+1. update version in package.json
+2. create git tag with name = new version
+3. update version in your project
