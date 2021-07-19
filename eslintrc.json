@@ -46,7 +46,9 @@
       { "blankLine": "always", "prev": "*", "next": "if" },
       { "blankLine": "always", "prev": "if", "next": "*" },
       { "blankLine": "always", "prev": "*", "next": "for" },
-      { "blankLine": "always", "prev": "for", "next": "*" }
+      { "blankLine": "always", "prev": "for", "next": "*" },
+      { "blankLine": "always", "prev": "*", "next": "class" },
+      { "blankLine": "always", "prev": "class", "next": "*" }
     ],
     "no-return-await": "error"
   }
